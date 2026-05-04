@@ -1,0 +1,26 @@
+ticker,company_name,sector,exchange,weight_pct
+AAPL,Apple Inc.,Technology,NASDAQ,6
+MSFT,Microsoft Corp.,Technology,NASDAQ,6
+NVDA,NVIDIA Corp.,Technology,NASDAQ,5
+GOOGL,Alphabet Inc.,Technology,NASDAQ,5
+META,Meta Platforms Inc.,Technology,NASDAQ,4
+AVGO,Broadcom Inc.,Technology,NASDAQ,4
+JPM,JPMorgan Chase & Co.,Financials,NYSE,5
+RY,Royal Bank of Canada,Financials,NYSE,5
+BAC,Bank of America Corp.,Financials,NYSE,4
+TD,Toronto-Dominion Bank,Financials,NYSE,4
+GS,Goldman Sachs Group Inc.,Financials,NYSE,4
+BLK,BlackRock Inc.,Financials,NYSE,3
+UNH,UnitedHealth Group Inc.,Healthcare,NYSE,5
+LLY,Eli Lilly and Co.,Healthcare,NYSE,5
+JNJ,Johnson & Johnson,Healthcare,NYSE,4
+ABBV,AbbVie Inc.,Healthcare,NYSE,3
+MRK,Merck & Co. Inc.,Healthcare,NYSE,3
+XOM,Exxon Mobil Corp.,Energy,NYSE,5
+CVX,Chevron Corp.,Energy,NYSE,4
+CNQ,Canadian Natural Resources,Energy,NYSE,3
+COP,ConocoPhillips,Energy,NYSE,3
+CAT,Caterpillar Inc.,Industrials,NYSE,3
+GE,GE Aerospace,Industrials,NYSE,3
+HON,Honeywell International,Industrials,NASDAQ,2
+RTX,RTX Corp.,Industrials,NYSE,2
