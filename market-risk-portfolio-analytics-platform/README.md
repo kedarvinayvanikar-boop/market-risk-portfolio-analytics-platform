@@ -168,13 +168,11 @@ Or use the Excel workbook created from the exports if you prefer one upload into
 | Portfolio Exposure | Contribution by stock, contribution by sector, portfolio weights | `portfolio_exposure_latest`, `sector_portfolio_exposure_latest` |
 | Sector Risk View | Sector volatility, sector drawdown, sector exposure | `sector_risk_summary_latest`, `sector_portfolio_exposure_latest` |
 
-## Resume Bullet Version
+## Project Highlights
 
-**Market Risk & Portfolio Exposure Analytics Platform | Python, SQLite, Power BI**
-
-- Built an equity risk monitoring system across 25+ stocks using Python and SQLite, computing returns, volatility, drawdowns, and volume trends to quantify market risk.
-- Implemented an alert engine flagging abnormal conditions including volatility spikes, 20%+ drawdowns, volume spikes, and large daily moves, generating 3,600+ risk alerts.
-- Developed portfolio exposure and Power BI reporting outputs showing stock- and sector-level risk drivers, benchmark performance, and contribution to return across 499 trading days.
+- Built a SQLite-backed financial data pipeline for 25 equities across multiple sectors.
+- Computed returns, volatility, drawdowns, volume spikes, benchmark performance, and portfolio exposure.
+- Generated risk alerts and Power BI-ready reporting tables for market and portfolio monitoring.
 
 ## Notes
 
