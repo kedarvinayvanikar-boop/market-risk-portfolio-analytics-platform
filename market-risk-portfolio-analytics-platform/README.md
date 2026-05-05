@@ -173,6 +173,7 @@ Or use the Excel workbook created from the exports if you prefer one upload into
 - Built a SQLite-backed financial data pipeline for 25 equities across multiple sectors.
 - Computed returns, volatility, drawdowns, volume spikes, benchmark performance, and portfolio exposure.
 - Generated risk alerts and Power BI-ready reporting tables for market and portfolio monitoring.
+- Designed the workflow to support repeatable portfolio risk monitoring and dashboard-ready analysis.
 
 ## Notes
 
